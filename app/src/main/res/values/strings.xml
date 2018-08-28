@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Templet</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="menu_rocket_text">要上天</string>
+    <string name="title_activity_me_fragment">MeFragment</string>
+</resources>

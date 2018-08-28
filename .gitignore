@@ -1,3 +1,9 @@
+/.idea
+/app/build/
+/BottomNavigationViewLibrary/build/
+/coordinatormenu/build/
+
+
 # Built application files
 *.apk
 *.ap_
